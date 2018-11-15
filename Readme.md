@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/AgBook_CreatingTemplates/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/AgBook_CreatingTemplates/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/AgBook_CreatingTemplates/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/AgBook_CreatingTemplates/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to Create the DXBook control
 
 
